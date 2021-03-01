@@ -1,0 +1,16 @@
+PODS:
+  - WJTimerClockLabel (0.1.0)
+
+DEPENDENCIES:
+  - WJTimerClockLabel (from `../`)
+
+EXTERNAL SOURCES:
+  WJTimerClockLabel:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WJTimerClockLabel: 673260273d34087e20830a7ecb2a323dfcbf730a
+
+PODFILE CHECKSUM: 0dfd30daaa8eea978f390d75b02fb24d130322f9
+
+COCOAPODS: 1.8.4
